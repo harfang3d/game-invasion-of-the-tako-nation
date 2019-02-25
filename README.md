@@ -1,5 +1,5 @@
 # GGJ2018-invasion-of-the-tako-nation
-Contribution to the GGJ2018, 48 hours game made in C++ using [Harfang](https://www.harfang3d.com).
+Contribution to the GGJ2018, 48 hours game made in C++ using [HARFANG® 3D](https://www.harfang3d.com).
 
 ![Title](still1.jpg)
 ![Gameplay](still2.jpg)
